@@ -145,60 +145,61 @@ This folder contains all the well-aggregated profiles for that project analyzed 
 <br>
 
 ```
-<project>
-└───<project_specific>
+CellRecovery
+└───2022_05_25_LiveCellPainting
     └───illum
-    │   ├───<plate>
+    │   ├───220508_09856_Plate_1
     │       ├───<plate>_Illum<Channel>.npy
     │       └───<plate>_Illum<Channel>.npy
-    │   ├───<plate>
-    │   └───<plate>
+    │   ├───220510_89856_Plate_1
+    │   └───220515_09853_Plate_1
     └───images
-        ├───<plate>
+        ├───220508_09856_Plate_1
             ├───B2_02_1_1_GFP_001.tif
             ├───B2_02_1_2_GFP_001.tif
-        ├───<plate>
-        └───<plate>
+        ├───220510_89856_Plate_1
+        └───220515_09853_Plate_1
 └──workspace
     └───assaydev
-        └───<project_specific>
+        └───2022_05_25_LiveCellPainting
             └───montage_segmentation.png
     └───backend
-        └───<project_specific>
-            └───<plate>
+        └───2022_05_25_LiveCellPainting
+            └───220508_09856_Plate_1
                 ├──2022_05_25_LiveCellPainting_single_cells.csv
                 └──2022_05_25_LiveCellPainting_single_cells.sqlite
     └───cellpose
-        └───<project_specific>
+        └───2022_05_25_LiveCellPainting
             ├──train
                 └───models
             └───test
     └──load_data_csv
-        └──<project_specific>
-            ├──<plate>
+        └──2022_05_25_LiveCellPainting
+            ├──220508_09856_Plate_1
             │   ├──load_data.csv
             │   └──load_data_with_illum.csv
-            └──<plate>
+            └──220510_89856_Plate_1
     └───metadata
         ├───platemaps
-            └───<project_specific>
+            └───2022_05_25_LiveCellPainting
                 ├───barcode_platemap.csv
                 └───platemap
                     ├───platemap1.txt
                     ├───platemap2.txt
         └───layouts
-            └───<project_specific>
-                ├───<plate>_layout.csv
+            └───2022_05_25_LiveCellPainting
+                ├──220508_09856_Plate_1_layout.csv
+                └──220510_89856_Plate_1_layout.csv
     └───metadata
-        └───<project_specific>
+        └───2022_05_25_LiveCellPainting
             ├───cellpose_model_hoechst
     └───pipelines
-        └───<project_specific>
+        └───2022_05_25_LiveCellPainting
             ├───assaydev.cppipe
             ├───analysis.cppipe
             └───illum.cppipe
     └──profiles
-        └──<project_specific>
+        └──2022_05_25_LiveCellPainting
             ├──2022_05_25_LiveCellPainting_agg_median.csv
             ├──2022_05_25_LiveCellPainting_agg_median_normalized.csv
             ├──2022_05_25_LiveCellPainting_agg_median_normalized_feature_select.csv
