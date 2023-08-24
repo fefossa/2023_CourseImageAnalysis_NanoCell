@@ -143,6 +143,7 @@ This folder contains all the well-aggregated profiles for that project analyzed 
 <details>
 <summary>Details</summary>
 <br>
+
 ```
 <project>
 └───<project_specific>
