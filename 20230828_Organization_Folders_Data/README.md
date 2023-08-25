@@ -190,7 +190,7 @@ CellRecovery
             └───2022_05_25_LiveCellPainting
                 ├──220508_09856_Plate_1_layout.csv
                 └──220510_89856_Plate_1_layout.csv
-    └───metadata
+    └───models
         └───2022_05_25_LiveCellPainting
             ├───cellpose_model_hoechst
     └───pipelines
