@@ -1,5 +1,9 @@
 # Organizing folders and image data: required structure
 
+[Presentation about folders and file naming for bioimage analysis](https://docs.google.com/presentation/d/1U1OQz5ppMqnlWmHkyhztXaZns_a0DsaE3rdpbcyqlcg/edit?usp=sharing)
+
+[Lab lesson about using the shell: basic commands](https://docs.google.com/presentation/d/13bghJeGd_BZbdcN5-gjvJPltZleVo0M_lIHPWOtHWHI/edit?usp=sharing)
+
 Here, we suggest how the folders should be organized when doing an image analysis project. 
 
 Having a fixed structure helps making the data findable, accessible, and reusable. 
