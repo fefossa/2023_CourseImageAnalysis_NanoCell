@@ -15,25 +15,48 @@ For each day of the course, we will provide the written documentation, slides, a
 ## Schedule
 
 1. Folders and file naming for bioimage analysis
-    - Practicing: shell and bash basic commands
+
+    1.1 Practicing: shell and bash basic commands
+
 2. Basics about image formation
-    - Practicing: ImageJ
+
+    2.1 Practicing: ImageJ
+
 3. Metadata
-    - Practicing: GitHub and version control
+
+    3.1 Practicing: GitHub and version control
+
 4. Analysis using CellProfiler
-    a. Install CellProfiler with plugins
-    b. Cellpose: train custom models
-    c. Assaydev pipeline
-    d. Analysis pipeline
+
+    4.1. Install CellProfiler with plugins
+
+    4.2. Cellpose: train custom models
+
+    4.3. Assaydev pipeline
+
+    4.4. Analysis pipeline
+
     - Practicing: CellProfiler
+
 5. Profiling using pycytominer
-    - Practicing: Jupyter notebooks
+
+    5.1. What's profiling?
+
+    5.2. Profiling evaluation using mean Average Precision 
+
+    5.2. Practicing: Create environment & Jupyter notebooks
+
 6. Visualizing and interpreting profiling data 
-    - Practicing: Jupyter notebooks
+
+    6.2. Practicing: Jupyter notebooks
+
 7. Machine learning for profiling
-    a. PCA and UMAP
-    b. Random Forest
-    c. DeepProfiler
+
+    7.1. PCA and UMAP
+
+    7.2. Random Forest
+    
+    7.3. DeepProfiler
 
 
 
