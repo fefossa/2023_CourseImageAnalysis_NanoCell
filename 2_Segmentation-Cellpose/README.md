@@ -1,4 +1,4 @@
-# cellpose train your own model
+# cellpose: train your own model
 
 We show how we use cellpose to generate a custom model to segment hard-to-segment nuclei. 
 
