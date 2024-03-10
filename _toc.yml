@@ -1,0 +1,9 @@
+- file: README.md
+- file: 1_Folders-and-File-Naming/README.md
+- file: 2_Segmentation-Cellpose/README.md
+- file: 3_Install-CellProfiler/README.md
+- file: 4_Metadata/README.md
+- file: 5_AssayDev_and_Analysis/README.md
+- file: 6_Profiling_Pycytominer/README.md
+- file: 7_BatchCorrection_PyCombat/README.md
+- file: 8_InterpretingProfiles/README.md
