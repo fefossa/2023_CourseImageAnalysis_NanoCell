@@ -26,11 +26,10 @@ Most notebooks and scripts used for this course is available at [scripts_noteboo
 
 2. Using Cellpose to train your own model
 
-    2.1 Installing and using Cellpose human-on-a-loop
-    2.2 Using RunCellpose (Cellpose + CellProfiler integration). 
+    2.1 Installing and using Cellpose human-on-a-loop [Video in PT](https://youtu.be/iaMhFuzBcys)
     
-    [Video in EN](https://www.youtube.com/watch?v=8RGvnADDSkg&pp=ygUqY2VudGVyIGZvciBvcGVuIGJpb2ltYWdlIGFuYWx5c2lzIG1vcnBoZXVz)
-    [Video in PT](https://youtu.be/iaMhFuzBcys)
+    2.2 Using RunCellpose (Cellpose + CellProfiler integration). [Video in EN](https://www.youtube.com/watch?v=8RGvnADDSkg&pp=ygUqY2VudGVyIGZvciBvcGVuIGJpb2ltYWdlIGFuYWx5c2lzIG1vcnBoZXVz)
+    
 
 3. Installing CellProfiler with RunCellpose
 
@@ -46,19 +45,19 @@ Most notebooks and scripts used for this course is available at [scripts_noteboo
 
 5. Assay development and Analysis with CellProfiler
 
-    4.1 Assaydev pipeline
+    5.1 Assaydev pipeline
 
-    4.2 Analysis pipeline
+    5.2 Analysis pipeline
 
     - Practicing: CellProfiler
 
 6. Profiling using Pycytominer
 
-    5.1 What's profiling?
+    6.1 What's profiling?
 
-    5.2 Profiling evaluation using mean Average Precision 
+    6.2 Profiling evaluation using mean Average Precision 
 
-    5.2 Practicing: Create environment & Jupyter notebooks
+    6.3 Practicing: Create environment & Jupyter notebooks
 
 7. Batch correction with PyCombat
 
