@@ -12,6 +12,10 @@ CellProfiler is a software designed to analyze images using a reproducible pipel
 
 - For [Mac Apple Silicon](https://github.com/CellProfiler/CellProfiler/wiki/Installation-of-CellProfiler-4-from-source-on-MacOS-M1)
 
-3. To install from source 
+3. To install from source using plugins, follow the instructions [here](https://plugins.cellprofiler.org/using_plugins.html#installing-plugins-with-dependencies-using-pre-built-cellprofiler). 
 
-[1] 
+
+Always check the documentation and information available at https://github.com/CellProfiler and https://github.com/CellProfiler/CellProfiler-plugins. 
+
+
+[1] Carpenter, A.E., Jones, T.R., Lamprecht, M.R. et al. CellProfiler: image analysis software for identifying and quantifying cell phenotypes. Genome Biol 7, R100 (2006). https://doi.org/10.1186/gb-2006-7-10-r100
