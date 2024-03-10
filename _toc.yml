@@ -1,4 +1,6 @@
-- file: README.md
+format: jb-article
+root: README.md
+sections:
 - file: 1_Folders-and-File-Naming/README.md
 - file: 2_Segmentation-Cellpose/README.md
 - file: 3_Install-CellProfiler/README.md
