@@ -10,3 +10,5 @@ Here's the slides available for batch correction with PyCombat:
 
 <!-- Embed PDF -->
 <iframe src="/7_BatchCorrection_PyCombat/2024-02-26_BatchCorrection.pdf" width="100%" height="600px"></iframe>
+
+<img src="/7_BatchCorrection_PyCombat/2024-02-26_BatchCorrection.pdf">

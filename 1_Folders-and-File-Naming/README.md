@@ -1,8 +1,21 @@
-# Organizing folders and image data: required structure
+# Folders and file naming
 
-[Presentation about folders and file naming for bioimage analysis](https://docs.google.com/presentation/d/1U1OQz5ppMqnlWmHkyhztXaZns_a0DsaE3rdpbcyqlcg/edit?usp=sharing)
+## Materials
+1. Presentation about folders and file naming for bioimage analysis: 
 
-[Lab lesson about using the shell: basic commands](https://docs.google.com/presentation/d/13bghJeGd_BZbdcN5-gjvJPltZleVo0M_lIHPWOtHWHI/edit?usp=sharing)
+- [slides](https://docs.google.com/presentation/d/1U1OQz5ppMqnlWmHkyhztXaZns_a0DsaE3rdpbcyqlcg/edit?usp=sharing)
+
+- [video in PT](https://youtu.be/reOvkBbzQI4)
+
+- [Q&A in PT](https://youtu.be/s9Zzlj6U0xM)
+
+2. Lab lesson about using the shell: 
+
+- [slides](https://docs.google.com/presentation/d/13bghJeGd_BZbdcN5-gjvJPltZleVo0M_lIHPWOtHWHI/edit?usp=sharing)
+
+- [video in PT](https://youtu.be/mR0LjCR0AVg)
+
+## How to organize your folders
 
 Here, we suggest how the folders should be organized when doing an image analysis project. 
 
@@ -32,7 +45,9 @@ The parent structure is:
 
 - `workspace_dl` features and results from deep learning analysis. 
 
-## `images` and `illum` folders
+### Folder structure in detail
+
+````{dropdown} images and illum 
 
 ```
 <project>
@@ -52,8 +67,9 @@ The parent structure is:
 ```
 
 Inside each `<plate>` folder, it will contain either one illumination function for each channel (`illum`), or all the images acquired in that plate (`images`).
+````
 
-## `workspace/workspace_dl` folder structure
+````{dropdown} workspace/workspace_dl 
 
 Everything related to the project that are not images will be in `workspace` for CellProfiler features or `workspace_dl` for deep learning features.
 
@@ -92,8 +108,9 @@ Inside each folder of `workspace`, we'll have a `<project_specific>` folder to m
 - `pipelines`: contains the pipelines used in CellProfiler (assaydev.cppipe, analysis.cppipe, illum.cppipe);
 
 - `profiles`: contains a set of profiles (well-level aggregated), normalized and/or feature selected.
+````
 
-## `load_data_csv` structure:
+````{dropdown} load_data_csv
 
 ```
 └──load_data_csv
@@ -105,9 +122,9 @@ Inside each folder of `workspace`, we'll have a `<project_specific>` folder to m
 ```
 
 Inside each `plate` folder, you'll have `load_data.csv` for pipelines that do not use an illumination correction function and a `load_data_with_illum.csv` for pipelines that do use an illumination correction function. Those can be generated using the notebook in [this repository](https://github.com/fefossa/LoadDataGenerator).
+````
 
-
-## `metadata` structure:
+````{dropdown} metadata
 
 ```
 └───metadata
@@ -126,9 +143,9 @@ Inside each `plate` folder, you'll have `load_data.csv` for pipelines that do no
  - `platemap`: contains the platemaps.txt with informations about well, plate, compounds, concentration, etc;
 
  - `layouts`: contains the layout of each plate in the project in the plate format (96-well) for visualization;
+````
 
-
-## `profiles` structure:
+````{dropdown} profiles
 
 ```
 └──profiles
@@ -141,12 +158,11 @@ Inside each `plate` folder, you'll have `load_data.csv` for pipelines that do no
 ```
 
 This folder contains all the well-aggregated profiles for that project analyzed in different ways (normalized and feature selected, normalized to negcon, etc).
+```` 
 
 ## Complete folder structure
 
-<details>
-<summary>Details</summary>
-<br>
+````{dropdown} See full structure
 
 ```
 CellRecovery
@@ -210,4 +226,4 @@ CellRecovery
             ├──2022_05_25_LiveCellPainting_agg_median_normalized_negcon_feature_select.csv
             └──2022_05_25_LiveCellPainting_agg_median_normalized_negcon_feature_select_pycombat.csv
 ```
-</details>
+````
