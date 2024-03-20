@@ -10,10 +10,10 @@ The pipelines used for each step are available [here](https://github.com/broadin
 
 1. Presentation about CellProfiler:
 
-- [video in PT](https://youtu.be/dw_MKWUEtIg)
+    - [video in PT](https://youtu.be/dw_MKWUEtIg)
 
 2. How to develop your analysis: segment your objects, and save the outlines for each well in your plate to check segmentation:
 
-- [assay development demonstration in PT](https://youtu.be/yHOkQRKiqF4)
+    - [assay development demonstration in PT](https://youtu.be/yHOkQRKiqF4)
 
-- [Q&A](https://youtu.be/lxlDzyxuMtM)
+    - [Q&A](https://youtu.be/lxlDzyxuMtM)

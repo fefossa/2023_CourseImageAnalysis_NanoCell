@@ -1,14 +1,15 @@
 # Batch correction with PyCombat
 
-Here's the slides available for batch correction with PyCombat:
+You can correct batch effects using many algorithms, but here we propose the use of PyCombat because of its usage to correct small batches.
 
-<!-- Embed Google Slides iframe -->
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvbU3dkEg0JkY__5PTOhIwECGFOjqlWjCKJ7XqSAIZtyfJEp6VjVQkWo0NQ2JySbhDsLL4KRhR2vBA/pub?start=false&loop=false&delayms=3000"></iframe>
+## Material
 
-<!-- Embed Google Slides using Gist -->
-<script src="https://gist.github.com/fefossa/706907967a64d136f0db87de847363a0"></script>
+1. Empirical Bayes and PyCombat:
 
-<!-- Embed PDF -->
-<iframe src="/7_BatchCorrection_PyCombat/2024-02-26_BatchCorrection.pdf" width="100%" height="600px"></iframe>
+    - [video in PT](https://youtu.be/_XAahQbSo8g) and [Q&A](https://youtu.be/yWtI2YCNL6k)
 
-<img src="/7_BatchCorrection_PyCombat/2024-02-26_BatchCorrection.pdf">
+2. Using PyCombat with Jupyter notebooks:
+
+    - [video in PT](https://youtu.be/8X84Pw7kqgw)
+
+    - [Jupyter Notebook](https://github.com/broadinstitute/scripts_notebooks_fossa/blob/main/pycombat_umap/pycombat.ipynb)

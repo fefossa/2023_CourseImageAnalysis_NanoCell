@@ -1,4 +1,4 @@
-# Segmentation with cellpose
+# Segmentation with Cellpose
 
 We show how we use cellpose to generate a custom model for hard-to-segment nuclei. 
 

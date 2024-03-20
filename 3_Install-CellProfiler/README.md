@@ -1,12 +1,12 @@
-# CellProfiler basics
+# CellProfiler
 
-CellProfiler is a software designed to analyze images using a reproducible pipeline, adjusting many settings to segment and extract features from images, processing images, and exporting the data to spreadsheet or database [1]. It's a growing software that accepts [contributions](https://github.com/CellProfiler/CellProfiler) and integration with other software with [plugins](https://github.com/CellProfiler/CellProfiler-plugins)
+CellProfiler is a software designed to analyze images using a reproducible pipeline, adjusting many settings to segment and extract features from images, processing images, and exporting the data to spreadsheet or database [1]. It's a growing software that accepts [contributions](https://github.com/CellProfiler/CellProfiler) and integration with other software with [plugins](https://github.com/CellProfiler/CellProfiler-plugins).
 
 ## Materials
 
 1. How to install CellProfiler with RunCellpose on Windows:
 
-- [video in PT](https://youtu.be/Gn_S_rH3NLs)
+    - [video in PT](https://youtu.be/Gn_S_rH3NLs)
 
 ## Installation
 
@@ -14,9 +14,9 @@ CellProfiler is a software designed to analyze images using a reproducible pipel
 
 2. To install from source on a Mac:
 
-- For [Mac Intel](https://github.com/CellProfiler/CellProfiler/wiki/Source-installation-%28OS-X-and-macOS%29)
+    - For [Mac Intel](https://github.com/CellProfiler/CellProfiler/wiki/Source-installation-%28OS-X-and-macOS%29)
 
-- For [Mac Apple Silicon](https://github.com/CellProfiler/CellProfiler/wiki/Installation-of-CellProfiler-4-from-source-on-MacOS-M1)
+    - For [Mac Apple Silicon](https://github.com/CellProfiler/CellProfiler/wiki/Installation-of-CellProfiler-4-from-source-on-MacOS-M1)
 
 3. To install from source using plugins, follow the instructions [here](https://plugins.cellprofiler.org/using_plugins.html#installing-plugins-with-dependencies-using-pre-built-cellprofiler). 
 

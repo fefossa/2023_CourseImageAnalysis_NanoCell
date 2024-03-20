@@ -14,12 +14,12 @@ To create metadata about image location and minimal information such as well, si
 
 1. Presentation about organizing metadata from the images and from the assay:
 
-- [video in PT](https://youtu.be/xPL6zivk-BU) and [Q&A](https://youtu.be/Tj27YWdKscc)
+    - [video in PT](https://youtu.be/xPL6zivk-BU) and [Q&A](https://youtu.be/Tj27YWdKscc)
 
 2. How to use the two apps `Layout to CSV` and `Load Data Generator`
 
-- [video in PT](https://youtu.be/CcuvvJKur-k) and [Q&A](https://youtu.be/jct80vOhdEo)
+    - [video in PT](https://youtu.be/CcuvvJKur-k) and [Q&A](https://youtu.be/jct80vOhdEo)
 
 3. Using LoadData from CellProfiler to upload your images and metadata:
 
-- [video in PT](https://youtu.be/fLYUx2-7l6s)
+    - [video in PT](https://youtu.be/fLYUx2-7l6s)
