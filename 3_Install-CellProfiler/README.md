@@ -7,6 +7,7 @@ CellProfiler is a software designed to analyze images using a reproducible pipel
 1. How to install CellProfiler with RunCellpose on Windows:
 
     - [video in PT](https://youtu.be/Gn_S_rH3NLs)
+    - instructions for a Windows machine to install from source in [Portuguese](/Instalar%20CellProfiler%20(PT).pdf) or [English](/CellProfiler%20Installation%20(EG).pdf)
 
 ## Installation
 
