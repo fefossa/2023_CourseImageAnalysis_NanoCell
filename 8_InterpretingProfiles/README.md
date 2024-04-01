@@ -4,7 +4,7 @@ It can be very hard to interpret image-based profiles, we get it. So here's some
 
 ## Articles
 
-This protocol paper can help:
+This protocol paper can help: [Interpreting Image-based Profiles using Similarity Clustering and Single-Cell Visualization](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpz1.713).
 
 ## Features and interpretations
 
