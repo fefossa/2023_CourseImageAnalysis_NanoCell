@@ -1,5 +1,5 @@
 format: jb-article
-root: README.md
+root: index
 sections:
 - file: 1_Folders-and-File-Naming/README.md
 - file: 2_Segmentation-Cellpose/README.md
